@@ -53,13 +53,5 @@ public class JavaStringIntoduction {
         System.out.println(s1 + s11 + " " + s2 + s22);
 
 
-//        String s = "javatpoint";
-//        System.out.println(s);
-//        String s1 = s.substring(0, 1).toUpperCase();  // first letter = J
-//        System.out.println(s1);
-//        String s2 = s.substring(1);     // after 1st letter = avatpoint
-//        System.out.println(s2);
-//        String res = s.substring(0, 1).toUpperCase() + s.substring(1); // J + avatpoint
-//        System.out.println(res);
     }
 }
