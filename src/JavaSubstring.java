@@ -14,7 +14,5 @@ public class JavaSubstring {
 
         String s1 = S.substring(start, end);
         System.out.println(s1);
-
-
     }
 }
